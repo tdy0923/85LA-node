@@ -38,7 +38,7 @@
 
 加入我们的社区，获取最新节点更新、技术讨论及更多免费资源。
 
-- 💬 **TG 群组**: [85LA 技术生活 (@85LA)](https://t.me/85LA)
+- 💬 **TG 群组**: [85LA 技术生活 (@85LA)](https://t.me/e85la)
 - 📺 **YouTube 频道**: [85LA 免费资源](https://www.youtube.com/85la)
 
 ## ⚠️ 使用声明
