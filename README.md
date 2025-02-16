@@ -19,20 +19,23 @@
 
 #### 🔗 节点列表
 - 最新节点每日更新，请访问：[免费网络节点列表](https://www.85la.com/internet-access/free-network-nodes)
+- https://www.85la.com/6753.html - 20250216
+- https://www.85la.com/6715.html - 20250215
+- https://www.85la.com/6655.html - 20250214
+- https://www.85la.com/6638.html - 20250213
 
 ### 📱 2. 科学上网客户端推荐
 
 我们推荐多种适用于不同操作系统的科学上网客户端，帮助用户快速连接免费节点，畅享流畅的网络体验。
 
 - **支持平台**: Windows、Android、Mac、iOS
-- **客户端下载**: [点击下载](https://www.85la.com/sitecat/client)
+- **客户端下载**: [点击下载](https://www.85la.com/242.html)
 
 ### 🎥 3. 85LA 免费资源
 
 85LA 不仅提供科学上网节点，还分享丰富的免费资源，包含免费高清电影下载和技术问答社区。
 
 - 🎬 **免费高清电影**: [5572 免费电影网](https://www.5572.net)
-- 💬 **问答社区**: [85LA 问答社区](https://www.85la.com/question)
 
 ### 📢 4. 社区与社交平台
 
